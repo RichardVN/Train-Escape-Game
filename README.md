@@ -26,3 +26,6 @@ Running the Game:
 2. Compile the game using the terminal command: `make`
 3. Play the game using the terminal command: `./TrainGame`
 4. Navigate menu options by entering a number (representing user choice) into command line
+
+Additional Notes:
+* To remove the executable game file *TrainGame* as well as the .o files, use the terminal command: `make clean`
