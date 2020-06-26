@@ -10,7 +10,8 @@ School: Oregon State University
 Class: CS 162 (Introduction to Computer Science II)
 
 Description:
-This program is the portfolo project developed for the class CS 162. 
+This program was developed for CS 162 in OSU's Computer Science program.
+Permission is granted to publish the project as a Portfolio Project.
 The game demonstrates knowledge of some key concepts in C++ and general OOP:
 * Pointers
 * Memory Management
