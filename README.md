@@ -23,10 +23,11 @@ The game demonstrates knowledge of some key concepts in C++ and general OOP:
 
 
 Running the Game:
-1. Navigate to directory containing program files using terminal (or other CLI)
-2. Compile the game using the terminal command: `make`
-3. Play the game using the terminal command: `./TrainGame`
-4. Navigate menu options by entering a number (representing user choice) into command line
+1. Clone this repository
+2. Navigate to directory containing program files using terminal (or other CLI)
+3. Compile the game using the terminal command: `make`
+4. Play the game using the terminal command: `./TrainGame`
+5. Navigate menu options by entering a number (representing user choice) into command line
 
 Additional Notes:
 * To remove the executable game file *TrainGame* as well as the .o files, use the terminal command: `make clean`
