@@ -1,7 +1,7 @@
 # Train-Escape
 
 ## About
-A text-based, escape room styled game that takes place on a runaway train.
+Description: A text-based, escape room styled game that takes place on a runaway train.
 
 Author: Richard Nguyen
 
@@ -11,7 +11,6 @@ School: Oregon State University
 
 Class: CS 162 (Introduction to Computer Science II)
 
-Description:
 This program was developed for CS 162 in OSU's Computer Science program.
 Permission is granted to publish the project publicly.
 The game demonstrates knowledge of some key concepts in C++ and general OOP:
