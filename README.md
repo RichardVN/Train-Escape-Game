@@ -24,7 +24,7 @@ The game demonstrates knowledge of some key concepts in C++ and general OOP:
 
 ## Installation:
 ```
-$ git clone https://github.com/RichardVN/Train-Escape-Game.git
+$ git clone https://github.com/RichardVN/train-escape-game.git
 $ cd Train-Escape-Game
 $ make
 $ ./TrainGame
